@@ -1,6 +1,6 @@
 ![Bookings Search page](Bookings.png)
 
-# Installation
+# Installation  
 
 1. Follow [the instructions](https://codeyourfuture.github.io/syllabus-master/others/making-a-pull-request.html#how-to-fork-a-github-repo) to fork & clone the GitHub repo
 2. Install the dependencies by running `npm install`
